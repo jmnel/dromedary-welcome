@@ -4,4 +4,4 @@ Click on *Help->Dromedary Documentation* to browse documentation.
 
 Click on *Help->Dromedary Examples* to browse examples.
 
-Help browser closes automatically when main window is closed. There are some example placholder documenation html files docs.
+Help browser closes automatically when main window is closed. There are some example placholder documentation html files docs.
